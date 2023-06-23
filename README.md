@@ -24,7 +24,7 @@ pip install yfinance pandas
 
 ## Utilisation
 - Assurez-vous que vous avez installé Python 3 et les bibliothèques requises.
-- Clonez le repository ou téléchargez le fichier programme.py sur votre machine.
+- Clonez le repository ou téléchargez le fichier etude-de-marché-avec-ratio-de-sharpe.py  sur votre machine.
 - Exécutez le programme Python à l'aide de la commande suivante :
 
 ```python
