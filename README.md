@@ -30,11 +30,11 @@ pip install yfinance pandas
 ```python
 python3 etude-de-marché-avec-ratio-de-sharpe.py 
 ```
-<br>
-<br>
-
 
 Le programme affichera les prix des actions, les rendements journaliers, la volatilité annualisée, les rendements cumulés, le rendement annualisé et les actions recommandées pour l'investissement.
+<br>
+<br>
+
 
 **Note :** Vous pouvez modifier la liste des symboles d'actions dans le code source pour analyser les actions de votre choix.
 
