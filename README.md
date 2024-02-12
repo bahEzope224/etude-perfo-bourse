@@ -1,6 +1,8 @@
 # Etude de performance boursière
 Ce programme Python récupère les données de prix des actions de certaines entreprises sur les 5 dernières années à l'aide de la bibliothèque yfinance. Ensuite, il effectue une analyse des actions en calculant les rendements journaliers, la volatilité annualisée, le rendement cumulé, le rendement annualisé et le ratio de Sharpe. Finalement, il recommande les actions à investir en se basant sur le ratio de Sharpe.
 
+## Exemple de resultat
+![Image boursiere](https://github.com/bahEzope224/etude-perfo-bourse/blob/main/chatify.png)
 
 <br>
 <br>
